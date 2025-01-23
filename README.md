@@ -36,6 +36,7 @@ Data gathered from IoT devices is analyzed to issue alerts to dormitory manageme
 
 6. **AWS Lambda (Line chatbot)**  
    - Retrieves data from **Amazon DynamoDB** and sends water quality information as a message to the **Line application**.
+   
     ![Line chatbot](image-4.png)
 
 7. **AWS DynamoDB**  
@@ -49,6 +50,7 @@ Data gathered from IoT devices is analyzed to issue alerts to dormitory manageme
 
 ### Line OA noitified
 
-    ![Line reply](image-5.png)
+<img width="235" alt="image-5" src="https://github.com/user-attachments/assets/a49a7dfe-1c53-41bf-a123-7bf736b9dc7c" />
+
 
 ---
