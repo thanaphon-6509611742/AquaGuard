@@ -48,7 +48,7 @@ Data gathered from IoT devices is analyzed to issue alerts to dormitory manageme
    - Receives messages from **AWS Lambda** (used for water quality inspection) and sends them to the destination email.
 
 
-### Line OA noitified
+### Line OA Chatbot
 
 <img width="235" alt="image-5" src="https://github.com/user-attachments/assets/a49a7dfe-1c53-41bf-a123-7bf736b9dc7c" />
 
